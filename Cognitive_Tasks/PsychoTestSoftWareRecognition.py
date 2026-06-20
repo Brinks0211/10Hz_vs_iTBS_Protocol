@@ -58,10 +58,10 @@ def SignIn():
     VerifyTime = int("{:0>2d}{:0>2d}{:0>2d}".format(today.year,today.month,today.day))
     password = VerifyEntry.get()
     institution = InstitutionEntry.get()
-    password_list = ['sandBrain','sandBrain1000','sandBrain10000']
+    password_list = ['password']  ###请设置好您的密码，默认password  ！！！
 # 设置多个邀请码（5个）
     if (password in password_list) & (institution == '山东省精神卫生中心'):
-        if VerifyTime <= 20501231:
+        if VerifyTime <= 20501231:  ###可修改时间权限！！！
             #messagebox.showinfo('使用提示','该软件仅限2024年12月31日可用，继续使用请联系开发者！')
             VerifyWin.destroy()
             MainWin0()
