@@ -1,5 +1,0 @@
-2024-12-17 15:01:33 (39.30 seconds):  2024-12-17 15:00:53.702704 (0.00 secondes): start the application
-2024-12-17 15:01:33 (39.30 seconds): 0.00 secondsstart record video
-2024-12-17 15:01:34 (40.86 seconds): click the inform button
-2024-12-17 15:01:46 (52.42 seconds): show the Inform Consent
-2024-12-17 15:02:00 (66.40 seconds): Exit the recognition test

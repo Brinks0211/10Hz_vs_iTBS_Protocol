@@ -1,9 +1,0 @@
-2024-12-17 15:43:45 (101.05 seconds):  2024-12-17 15:42:03.972312 (0.00 secondes): start the application
-2024-12-17 15:43:45 (101.06 seconds): 0.00 secondsstart record video
-2024-12-17 15:43:48 (104.78 seconds): click the inform button
-2024-12-17 15:44:00 (116.50 seconds): show the Inform Consent
-2024-12-17 15:44:27 (143.45 seconds): Start PicNback
-2024-12-17 15:45:37 (213.29 seconds): PicNback is over
-2024-12-17 15:45:42 (218.74 seconds): Start Wisconsin
-2024-12-17 15:49:03 (419.20 seconds): Wisconsin is over
-2024-12-17 15:50:11 (487.93 seconds): Exit the recognition test
