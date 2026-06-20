@@ -1,0 +1,633 @@
+3.3652 	INFO 	start
+3.3655 	WARNING 	Monitor specification not found. Creating a temporary one...
+4.5411 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000117F36E6B90>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000117F36E65D0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000117F3644590>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000117F3838E50>, multiSample=False, name='window1', numSamples=2, pos=(128, 72), screen=0, size=array([1280,  720]), stencilBits=0, stereo=False, units='pix', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.5412 	EXP 	window1: mouseVisible = True
+4.5413 	EXP 	window1: backgroundImage = None
+4.5413 	EXP 	window1: backgroundFit = 'cover'
+4.5413 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.5413 	EXP 	window1: recordFrameIntervals = False
+4.7071 	EXP 	window1: recordFrameIntervals = True
+4.8906 	EXP 	Screen (0) actual frame rate measured at 60.29Hz
+4.8907 	EXP 	window1: recordFrameIntervals = False
+4.9424 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=40.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='pix', win=Window(...), wrapWidth=500)
+4.9457 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image=None, interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([  0., -20.]), size=array([30., 40.]), texRes=128, units='pix', win=Window(...))
+4.9620 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/BART/boom.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([300., 286.]), texRes=128, units='pix', win=Window(...))
+4.9729 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/BART/enter.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-400., -120.]), size=array([333., 125.]), texRes=128, units='pix', win=Window(...))
+4.9810 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/BART/space.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([   0., -120.]), size=array([333., 125.]), texRes=128, units='pix', win=Window(...))
+4.9898 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/BART/total.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([400., -20.]), size=array([331., 125.]), texRes=128, units='pix', win=Window(...))
+4.9979 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/BART/last.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 400., -170.]), size=array([331., 125.]), texRes=128, units='pix', win=Window(...))
+5.2063 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/BART/Instruc.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1280.,  720.]), texRes=128, units='pix', win=Window(...))
+5.2211 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='SimHei', fontFiles=[], height=20.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([500., -20.]), rgb=UNKNOWN, text='0.00分', units='pix', win=Window(...), wrapWidth=500)
+5.2242 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='SimHei', fontFiles=[], height=20.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 500., -170.]), rgb=UNKNOWN, text='0.00分', units='pix', win=Window(...), wrapWidth=500)
+5.2242 	INFO 	Start BART
+6.1258 	DATA 	Mouse: Left button down, pos=(612,606)
+6.2088 	DATA 	Mouse:  Left button up, pos=(612,606)
+6.8076 	DATA 	Keypress: space
+6.8211 	EXP 	Imported ./material/BART/BART.xlsx as conditions, 60 conditions, 2 params
+6.8224 	EXP 	Created sequence: sequential, trialTypes=60, nReps=1, seed=None
+7.4841 	EXP 	New trial (rep=0, index=0): {'Condition': 'orange', 'Max': 16}
+7.5054 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+8.5989 	DATA 	Keypress: space
+8.6234 	EXP 	unnamed TextStim: text = '0.00分'
+8.9959 	DATA 	Keypress: return
+9.0039 	EXP 	New trial (rep=0, index=1): {'Condition': 'orange', 'Max': 16}
+9.0217 	EXP 	unnamed TextStim: height = 20.0
+9.0217 	EXP 	unnamed TextStim: height = 20.0
+9.0217 	EXP 	unnamed TextStim: height = 20.0
+9.0217 	EXP 	unnamed TextStim: text = '0.05分'
+9.0217 	EXP 	unnamed TextStim: height = 20.0
+9.0217 	EXP 	unnamed TextStim: height = 20.0
+9.0217 	EXP 	unnamed TextStim: height = 20.0
+9.0217 	EXP 	unnamed TextStim: text = '0.05分'
+9.0217 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+9.1235 	DATA 	Keypress: space
+9.1391 	EXP 	unnamed TextStim: text = '0.05分'
+9.3035 	DATA 	Keypress: return
+9.3111 	EXP 	New trial (rep=0, index=2): {'Condition': 'orange', 'Max': 16}
+9.3213 	EXP 	unnamed TextStim: text = '0.05分'
+9.3213 	EXP 	unnamed TextStim: height = 20.0
+9.3213 	EXP 	unnamed TextStim: height = 20.0
+9.3213 	EXP 	unnamed TextStim: height = 20.0
+9.3213 	EXP 	unnamed TextStim: text = '0.10分'
+9.3213 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+9.4234 	DATA 	Keypress: space
+9.4389 	EXP 	unnamed TextStim: text = '0.10分'
+9.5806 	DATA 	Keypress: return
+9.5853 	EXP 	New trial (rep=0, index=3): {'Condition': 'orange', 'Max': 16}
+9.6046 	EXP 	unnamed TextStim: text = '0.05分'
+9.6046 	EXP 	unnamed TextStim: height = 20.0
+9.6046 	EXP 	unnamed TextStim: height = 20.0
+9.6046 	EXP 	unnamed TextStim: height = 20.0
+9.6046 	EXP 	unnamed TextStim: text = '0.15分'
+9.6046 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+9.7234 	DATA 	Keypress: space
+9.7382 	EXP 	unnamed TextStim: height = 20.0
+9.7382 	EXP 	unnamed TextStim: height = 20.0
+9.7382 	EXP 	unnamed TextStim: height = 20.0
+9.7382 	EXP 	unnamed TextStim: text = '0.00分'
+9.8332 	DATA 	Keypress: return
+9.9836 	DATA 	Keypress: space
+10.7388 	EXP 	New trial (rep=0, index=4): {'Condition': 'orange', 'Max': 16}
+10.7541 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+11.0135 	DATA 	Keypress: space
+11.0373 	EXP 	unnamed TextStim: text = '0.15分'
+11.1410 	DATA 	Keypress: return
+11.1499 	EXP 	New trial (rep=0, index=5): {'Condition': 'orange', 'Max': 16}
+11.1710 	EXP 	unnamed TextStim: height = 20.0
+11.1710 	EXP 	unnamed TextStim: height = 20.0
+11.1710 	EXP 	unnamed TextStim: height = 20.0
+11.1710 	EXP 	unnamed TextStim: text = '0.05分'
+11.1710 	EXP 	unnamed TextStim: height = 20.0
+11.1710 	EXP 	unnamed TextStim: height = 20.0
+11.1710 	EXP 	unnamed TextStim: height = 20.0
+11.1710 	EXP 	unnamed TextStim: text = '0.20分'
+11.1710 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+11.2688 	DATA 	Keypress: space
+11.2877 	EXP 	unnamed TextStim: height = 20.0
+11.2877 	EXP 	unnamed TextStim: height = 20.0
+11.2877 	EXP 	unnamed TextStim: height = 20.0
+11.2877 	EXP 	unnamed TextStim: text = '0.00分'
+11.3733 	DATA 	Keypress: return
+11.4921 	DATA 	Keypress: space
+11.5875 	DATA 	Keypress: return
+12.2889 	EXP 	New trial (rep=0, index=6): {'Condition': 'orange', 'Max': 16}
+12.3218 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+12.6189 	DATA 	Keypress: space
+12.6367 	EXP 	unnamed TextStim: text = '0.20分'
+12.7536 	DATA 	Keypress: return
+12.7609 	EXP 	New trial (rep=0, index=7): {'Condition': 'orange', 'Max': 16}
+12.7874 	EXP 	unnamed TextStim: height = 20.0
+12.7874 	EXP 	unnamed TextStim: height = 20.0
+12.7874 	EXP 	unnamed TextStim: height = 20.0
+12.7874 	EXP 	unnamed TextStim: text = '0.05分'
+12.7874 	EXP 	unnamed TextStim: height = 20.0
+12.7874 	EXP 	unnamed TextStim: height = 20.0
+12.7874 	EXP 	unnamed TextStim: height = 20.0
+12.7874 	EXP 	unnamed TextStim: text = '0.25分'
+12.7874 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+12.8584 	DATA 	Keypress: space
+12.8699 	EXP 	unnamed TextStim: text = '0.25分'
+12.9559 	DATA 	Keypress: return
+12.9614 	EXP 	New trial (rep=0, index=8): {'Condition': 'orange', 'Max': 16}
+12.9866 	EXP 	unnamed TextStim: text = '0.05分'
+12.9866 	EXP 	unnamed TextStim: height = 20.0
+12.9866 	EXP 	unnamed TextStim: height = 20.0
+12.9866 	EXP 	unnamed TextStim: height = 20.0
+12.9866 	EXP 	unnamed TextStim: text = '0.30分'
+12.9866 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+13.0834 	DATA 	Keypress: space
+13.1038 	EXP 	unnamed TextStim: text = '0.30分'
+13.1284 	DATA 	Keypress: return
+13.1322 	EXP 	New trial (rep=0, index=9): {'Condition': 'orange', 'Max': 16}
+13.1533 	EXP 	unnamed TextStim: text = '0.05分'
+13.1533 	EXP 	unnamed TextStim: height = 20.0
+13.1533 	EXP 	unnamed TextStim: height = 20.0
+13.1533 	EXP 	unnamed TextStim: height = 20.0
+13.1533 	EXP 	unnamed TextStim: text = '0.35分'
+13.1533 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+13.2938 	DATA 	Keypress: space
+13.3032 	EXP 	unnamed TextStim: text = '0.35分'
+13.3034 	DATA 	Keypress: return
+13.4512 	DATA 	Keypress: return
+13.4565 	EXP 	New trial (rep=0, index=10): {'Condition': 'green', 'Max': 32}
+13.4709 	EXP 	unnamed TextStim: text = '0.05分'
+13.4709 	EXP 	unnamed TextStim: height = 20.0
+13.4709 	EXP 	unnamed TextStim: height = 20.0
+13.4709 	EXP 	unnamed TextStim: height = 20.0
+13.4709 	EXP 	unnamed TextStim: text = '0.40分'
+13.4709 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+13.5034 	DATA 	Keypress: space
+13.5197 	EXP 	unnamed TextStim: text = '0.40分'
+13.6158 	DATA 	Keypress: return
+13.6205 	EXP 	New trial (rep=0, index=11): {'Condition': 'green', 'Max': 32}
+13.6364 	EXP 	unnamed TextStim: text = '0.05分'
+13.6364 	EXP 	unnamed TextStim: height = 20.0
+13.6364 	EXP 	unnamed TextStim: height = 20.0
+13.6364 	EXP 	unnamed TextStim: height = 20.0
+13.6364 	EXP 	unnamed TextStim: text = '0.45分'
+13.6364 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+13.7431 	DATA 	Keypress: space
+13.7531 	EXP 	unnamed TextStim: text = '0.45分'
+13.7809 	DATA 	Keypress: return
+13.7853 	EXP 	New trial (rep=0, index=12): {'Condition': 'green', 'Max': 32}
+13.8030 	EXP 	unnamed TextStim: text = '0.05分'
+13.8030 	EXP 	unnamed TextStim: height = 20.0
+13.8030 	EXP 	unnamed TextStim: height = 20.0
+13.8030 	EXP 	unnamed TextStim: height = 20.0
+13.8030 	EXP 	unnamed TextStim: text = '0.50分'
+13.8030 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+13.9385 	DATA 	Keypress: return
+13.9446 	EXP 	New trial (rep=0, index=13): {'Condition': 'green', 'Max': 32}
+13.9697 	EXP 	unnamed TextStim: height = 20.0
+13.9697 	EXP 	unnamed TextStim: height = 20.0
+13.9697 	EXP 	unnamed TextStim: height = 20.0
+13.9697 	EXP 	unnamed TextStim: text = '0.00分'
+13.9697 	EXP 	unnamed TextStim: text = '0.50分'
+13.9697 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+13.9708 	DATA 	Keypress: space
+13.9881 	EXP 	unnamed TextStim: text = '0.50分'
+14.0883 	DATA 	Keypress: return
+14.0962 	EXP 	New trial (rep=0, index=14): {'Condition': 'green', 'Max': 32}
+14.1205 	EXP 	unnamed TextStim: height = 20.0
+14.1205 	EXP 	unnamed TextStim: height = 20.0
+14.1205 	EXP 	unnamed TextStim: height = 20.0
+14.1205 	EXP 	unnamed TextStim: text = '0.05分'
+14.1205 	EXP 	unnamed TextStim: height = 20.0
+14.1205 	EXP 	unnamed TextStim: height = 20.0
+14.1205 	EXP 	unnamed TextStim: height = 20.0
+14.1205 	EXP 	unnamed TextStim: text = '0.55分'
+14.1205 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+14.1730 	DATA 	Keypress: space
+14.1867 	EXP 	unnamed TextStim: text = '0.55分'
+14.2460 	DATA 	Keypress: return
+14.2556 	EXP 	New trial (rep=0, index=15): {'Condition': 'green', 'Max': 32}
+14.2696 	EXP 	unnamed TextStim: text = '0.05分'
+14.2696 	EXP 	unnamed TextStim: height = 20.0
+14.2696 	EXP 	unnamed TextStim: height = 20.0
+14.2696 	EXP 	unnamed TextStim: height = 20.0
+14.2696 	EXP 	unnamed TextStim: text = '0.60分'
+14.2696 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+14.3809 	DATA 	Keypress: space
+14.4027 	EXP 	unnamed TextStim: text = '0.60分'
+14.4037 	DATA 	Keypress: return
+14.4083 	EXP 	New trial (rep=0, index=16): {'Condition': 'green', 'Max': 32}
+14.4216 	EXP 	unnamed TextStim: text = '0.05分'
+14.4216 	EXP 	unnamed TextStim: height = 20.0
+14.4216 	EXP 	unnamed TextStim: height = 20.0
+14.4216 	EXP 	unnamed TextStim: height = 20.0
+14.4216 	EXP 	unnamed TextStim: text = '0.65分'
+14.4216 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+14.5460 	DATA 	Keypress: return
+14.5518 	EXP 	New trial (rep=0, index=17): {'Condition': 'green', 'Max': 32}
+14.5706 	EXP 	unnamed TextStim: height = 20.0
+14.5706 	EXP 	unnamed TextStim: height = 20.0
+14.5706 	EXP 	unnamed TextStim: height = 20.0
+14.5706 	EXP 	unnamed TextStim: text = '0.00分'
+14.5706 	EXP 	unnamed TextStim: text = '0.65分'
+14.5706 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+14.5831 	DATA 	Keypress: space
+14.6025 	EXP 	unnamed TextStim: text = '0.65分'
+14.6957 	DATA 	Keypress: return
+14.7059 	EXP 	New trial (rep=0, index=18): {'Condition': 'green', 'Max': 32}
+14.7196 	EXP 	unnamed TextStim: height = 20.0
+14.7196 	EXP 	unnamed TextStim: height = 20.0
+14.7196 	EXP 	unnamed TextStim: height = 20.0
+14.7196 	EXP 	unnamed TextStim: text = '0.05分'
+14.7196 	EXP 	unnamed TextStim: height = 20.0
+14.7196 	EXP 	unnamed TextStim: height = 20.0
+14.7196 	EXP 	unnamed TextStim: height = 20.0
+14.7196 	EXP 	unnamed TextStim: text = '0.70分'
+14.7196 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+14.8084 	DATA 	Keypress: space
+14.8192 	EXP 	unnamed TextStim: text = '0.70分'
+14.8386 	DATA 	Keypress: return
+14.8443 	EXP 	New trial (rep=0, index=19): {'Condition': 'green', 'Max': 32}
+14.8698 	EXP 	unnamed TextStim: text = '0.05分'
+14.8698 	EXP 	unnamed TextStim: height = 20.0
+14.8698 	EXP 	unnamed TextStim: height = 20.0
+14.8698 	EXP 	unnamed TextStim: height = 20.0
+14.8698 	EXP 	unnamed TextStim: text = '0.75分'
+14.8698 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+14.9885 	DATA 	Keypress: return
+14.9942 	EXP 	New trial (rep=0, index=20): {'Condition': 'blue', 'Max': 128}
+15.0200 	EXP 	unnamed TextStim: height = 20.0
+15.0200 	EXP 	unnamed TextStim: height = 20.0
+15.0200 	EXP 	unnamed TextStim: height = 20.0
+15.0200 	EXP 	unnamed TextStim: text = '0.00分'
+15.0200 	EXP 	unnamed TextStim: text = '0.75分'
+15.0200 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+15.0203 	DATA 	Keypress: space
+15.1387 	DATA 	Keypress: return
+15.1426 	EXP 	New trial (rep=0, index=21): {'Condition': 'blue', 'Max': 128}
+15.1703 	EXP 	unnamed TextStim: text = '0.00分'
+15.1703 	EXP 	unnamed TextStim: text = '0.75分'
+15.1703 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+15.2062 	DATA 	Keypress: space
+15.2197 	EXP 	unnamed TextStim: text = '0.75分'
+15.2959 	DATA 	Keypress: return
+15.3030 	EXP 	New trial (rep=0, index=22): {'Condition': 'blue', 'Max': 128}
+15.3192 	EXP 	unnamed TextStim: height = 20.0
+15.3192 	EXP 	unnamed TextStim: height = 20.0
+15.3192 	EXP 	unnamed TextStim: height = 20.0
+15.3192 	EXP 	unnamed TextStim: text = '0.05分'
+15.3192 	EXP 	unnamed TextStim: height = 20.0
+15.3192 	EXP 	unnamed TextStim: height = 20.0
+15.3192 	EXP 	unnamed TextStim: height = 20.0
+15.3192 	EXP 	unnamed TextStim: text = '0.80分'
+15.3192 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+15.4083 	DATA 	Keypress: space
+15.4196 	EXP 	unnamed TextStim: text = '0.80分'
+15.4310 	DATA 	Keypress: return
+15.4353 	EXP 	New trial (rep=0, index=23): {'Condition': 'blue', 'Max': 128}
+15.4525 	EXP 	unnamed TextStim: text = '0.05分'
+15.4525 	EXP 	unnamed TextStim: height = 20.0
+15.4525 	EXP 	unnamed TextStim: height = 20.0
+15.4525 	EXP 	unnamed TextStim: height = 20.0
+15.4525 	EXP 	unnamed TextStim: text = '0.85分'
+15.4525 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+15.5883 	DATA 	Keypress: return
+15.5949 	EXP 	New trial (rep=0, index=24): {'Condition': 'blue', 'Max': 128}
+15.6199 	EXP 	unnamed TextStim: height = 20.0
+15.6199 	EXP 	unnamed TextStim: height = 20.0
+15.6199 	EXP 	unnamed TextStim: height = 20.0
+15.6199 	EXP 	unnamed TextStim: text = '0.00分'
+15.6199 	EXP 	unnamed TextStim: text = '0.85分'
+15.6199 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+15.6259 	DATA 	Keypress: space
+15.6374 	EXP 	unnamed TextStim: text = '0.85分'
+15.7384 	DATA 	Keypress: return
+15.7474 	EXP 	New trial (rep=0, index=25): {'Condition': 'blue', 'Max': 128}
+15.7697 	EXP 	unnamed TextStim: height = 20.0
+15.7697 	EXP 	unnamed TextStim: height = 20.0
+15.7697 	EXP 	unnamed TextStim: height = 20.0
+15.7697 	EXP 	unnamed TextStim: text = '0.05分'
+15.7697 	EXP 	unnamed TextStim: height = 20.0
+15.7697 	EXP 	unnamed TextStim: height = 20.0
+15.7697 	EXP 	unnamed TextStim: height = 20.0
+15.7697 	EXP 	unnamed TextStim: text = '0.90分'
+15.7697 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+15.8287 	DATA 	Keypress: space
+15.8530 	EXP 	unnamed TextStim: text = '0.90分'
+15.9036 	DATA 	Keypress: return
+15.9094 	EXP 	New trial (rep=0, index=26): {'Condition': 'blue', 'Max': 128}
+15.9356 	EXP 	unnamed TextStim: text = '0.05分'
+15.9356 	EXP 	unnamed TextStim: height = 20.0
+15.9356 	EXP 	unnamed TextStim: height = 20.0
+15.9356 	EXP 	unnamed TextStim: height = 20.0
+15.9356 	EXP 	unnamed TextStim: text = '0.95分'
+15.9356 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+16.0234 	DATA 	Keypress: space
+16.0361 	EXP 	unnamed TextStim: text = '0.95分'
+16.0533 	DATA 	Keypress: return
+16.0590 	EXP 	New trial (rep=0, index=27): {'Condition': 'blue', 'Max': 128}
+16.0691 	EXP 	unnamed TextStim: text = '0.05分'
+16.0691 	EXP 	unnamed TextStim: height = 20.0
+16.0691 	EXP 	unnamed TextStim: height = 20.0
+16.0691 	EXP 	unnamed TextStim: height = 20.0
+16.0691 	EXP 	unnamed TextStim: text = '1.00分'
+16.0691 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+16.2267 	DATA 	Keypress: return
+16.2310 	EXP 	New trial (rep=0, index=28): {'Condition': 'blue', 'Max': 128}
+16.2526 	EXP 	unnamed TextStim: height = 20.0
+16.2526 	EXP 	unnamed TextStim: height = 20.0
+16.2526 	EXP 	unnamed TextStim: height = 20.0
+16.2526 	EXP 	unnamed TextStim: text = '0.00分'
+16.2526 	EXP 	unnamed TextStim: text = '1.00分'
+16.2526 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+16.2554 	DATA 	Keypress: space
+16.2708 	EXP 	unnamed TextStim: text = '1.00分'
+16.4209 	DATA 	Keypress: return
+16.4285 	EXP 	New trial (rep=0, index=29): {'Condition': 'blue', 'Max': 128}
+16.4522 	EXP 	unnamed TextStim: height = 20.0
+16.4522 	EXP 	unnamed TextStim: height = 20.0
+16.4522 	EXP 	unnamed TextStim: height = 20.0
+16.4522 	EXP 	unnamed TextStim: text = '0.05分'
+16.4522 	EXP 	unnamed TextStim: height = 20.0
+16.4522 	EXP 	unnamed TextStim: height = 20.0
+16.4522 	EXP 	unnamed TextStim: height = 20.0
+16.4522 	EXP 	unnamed TextStim: text = '1.05分'
+16.4522 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+16.4810 	DATA 	Keypress: space
+16.5025 	EXP 	unnamed TextStim: text = '1.05分'
+16.5940 	DATA 	Keypress: return
+16.5994 	EXP 	New trial (rep=0, index=30): {'Condition': 'orange', 'Max': 16}
+16.6208 	EXP 	unnamed TextStim: text = '0.05分'
+16.6208 	EXP 	unnamed TextStim: height = 20.0
+16.6208 	EXP 	unnamed TextStim: height = 20.0
+16.6208 	EXP 	unnamed TextStim: height = 20.0
+16.6208 	EXP 	unnamed TextStim: text = '1.10分'
+16.6208 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+16.6611 	DATA 	Keypress: space
+16.6852 	EXP 	unnamed TextStim: text = '1.10分'
+16.7734 	DATA 	Keypress: return
+16.7772 	EXP 	New trial (rep=0, index=31): {'Condition': 'green', 'Max': 32}
+16.8038 	EXP 	unnamed TextStim: text = '0.05分'
+16.8038 	EXP 	unnamed TextStim: height = 20.0
+16.8038 	EXP 	unnamed TextStim: height = 20.0
+16.8038 	EXP 	unnamed TextStim: height = 20.0
+16.8038 	EXP 	unnamed TextStim: text = '1.15分'
+16.8038 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+16.8710 	DATA 	Keypress: space
+16.8851 	EXP 	unnamed TextStim: text = '1.15分'
+16.9684 	DATA 	Keypress: return
+16.9743 	EXP 	New trial (rep=0, index=32): {'Condition': 'blue', 'Max': 128}
+16.9860 	EXP 	unnamed TextStim: text = '0.05分'
+16.9860 	EXP 	unnamed TextStim: height = 20.0
+16.9860 	EXP 	unnamed TextStim: height = 20.0
+16.9860 	EXP 	unnamed TextStim: height = 20.0
+16.9860 	EXP 	unnamed TextStim: text = '1.20分'
+16.9860 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+17.0811 	DATA 	Keypress: space
+17.1027 	EXP 	unnamed TextStim: text = '1.20分'
+17.1259 	DATA 	Keypress: return
+17.1319 	EXP 	New trial (rep=0, index=33): {'Condition': 'blue', 'Max': 128}
+17.1522 	EXP 	unnamed TextStim: text = '0.05分'
+17.1522 	EXP 	unnamed TextStim: height = 20.0
+17.1522 	EXP 	unnamed TextStim: height = 20.0
+17.1522 	EXP 	unnamed TextStim: height = 20.0
+17.1522 	EXP 	unnamed TextStim: text = '1.25分'
+17.1522 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+17.3061 	DATA 	Keypress: space
+17.3184 	EXP 	unnamed TextStim: text = '1.25分'
+17.3195 	DATA 	Keypress: return
+17.3240 	EXP 	New trial (rep=0, index=34): {'Condition': 'green', 'Max': 32}
+17.3375 	EXP 	unnamed TextStim: text = '0.05分'
+17.3375 	EXP 	unnamed TextStim: height = 20.0
+17.3375 	EXP 	unnamed TextStim: height = 20.0
+17.3375 	EXP 	unnamed TextStim: height = 20.0
+17.3375 	EXP 	unnamed TextStim: text = '1.30分'
+17.3375 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+17.4935 	DATA 	Keypress: return
+17.4992 	EXP 	New trial (rep=0, index=35): {'Condition': 'orange', 'Max': 16}
+17.5195 	EXP 	unnamed TextStim: height = 20.0
+17.5195 	EXP 	unnamed TextStim: height = 20.0
+17.5195 	EXP 	unnamed TextStim: height = 20.0
+17.5195 	EXP 	unnamed TextStim: text = '0.00分'
+17.5195 	EXP 	unnamed TextStim: text = '1.30分'
+17.5195 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+17.5231 	DATA 	Keypress: space
+17.5370 	EXP 	unnamed TextStim: text = '1.30分'
+17.6661 	DATA 	Keypress: return
+17.6745 	EXP 	New trial (rep=0, index=36): {'Condition': 'orange', 'Max': 16}
+17.6851 	EXP 	unnamed TextStim: height = 20.0
+17.6851 	EXP 	unnamed TextStim: height = 20.0
+17.6851 	EXP 	unnamed TextStim: height = 20.0
+17.6851 	EXP 	unnamed TextStim: text = '0.05分'
+17.6851 	EXP 	unnamed TextStim: height = 20.0
+17.6851 	EXP 	unnamed TextStim: height = 20.0
+17.6851 	EXP 	unnamed TextStim: height = 20.0
+17.6851 	EXP 	unnamed TextStim: text = '1.35分'
+17.6851 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+17.7337 	DATA 	Keypress: space
+17.7522 	EXP 	unnamed TextStim: text = '1.35分'
+17.8610 	DATA 	Keypress: return
+17.8670 	EXP 	New trial (rep=0, index=37): {'Condition': 'green', 'Max': 32}
+17.8864 	EXP 	unnamed TextStim: text = '0.05分'
+17.8864 	EXP 	unnamed TextStim: height = 20.0
+17.8864 	EXP 	unnamed TextStim: height = 20.0
+17.8864 	EXP 	unnamed TextStim: height = 20.0
+17.8864 	EXP 	unnamed TextStim: text = '1.40分'
+17.8864 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+17.9361 	DATA 	Keypress: space
+17.9521 	EXP 	unnamed TextStim: text = '1.40分'
+18.0409 	DATA 	Keypress: return
+18.0470 	EXP 	New trial (rep=0, index=38): {'Condition': 'blue', 'Max': 128}
+18.0691 	EXP 	unnamed TextStim: text = '0.05分'
+18.0691 	EXP 	unnamed TextStim: height = 20.0
+18.0691 	EXP 	unnamed TextStim: height = 20.0
+18.0691 	EXP 	unnamed TextStim: height = 20.0
+18.0691 	EXP 	unnamed TextStim: text = '1.45分'
+18.0691 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+18.1534 	DATA 	Keypress: space
+18.1681 	EXP 	unnamed TextStim: text = '1.45分'
+18.2211 	DATA 	Keypress: return
+18.2249 	EXP 	New trial (rep=0, index=39): {'Condition': 'blue', 'Max': 128}
+18.2349 	EXP 	unnamed TextStim: text = '0.05分'
+18.2349 	EXP 	unnamed TextStim: height = 20.0
+18.2349 	EXP 	unnamed TextStim: height = 20.0
+18.2349 	EXP 	unnamed TextStim: height = 20.0
+18.2349 	EXP 	unnamed TextStim: text = '1.50分'
+18.2349 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+18.3709 	DATA 	Keypress: space
+18.3854 	EXP 	unnamed TextStim: text = '1.50分'
+18.4010 	DATA 	Keypress: return
+18.4066 	EXP 	New trial (rep=0, index=40): {'Condition': 'green', 'Max': 32}
+18.4182 	EXP 	unnamed TextStim: text = '0.05分'
+18.4182 	EXP 	unnamed TextStim: height = 20.0
+18.4182 	EXP 	unnamed TextStim: height = 20.0
+18.4182 	EXP 	unnamed TextStim: height = 20.0
+18.4182 	EXP 	unnamed TextStim: text = '1.55分'
+18.4182 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+18.5884 	DATA 	Keypress: return
+18.5946 	EXP 	New trial (rep=0, index=41): {'Condition': 'orange', 'Max': 16}
+18.6191 	EXP 	unnamed TextStim: height = 20.0
+18.6191 	EXP 	unnamed TextStim: height = 20.0
+18.6191 	EXP 	unnamed TextStim: height = 20.0
+18.6191 	EXP 	unnamed TextStim: text = '0.00分'
+18.6191 	EXP 	unnamed TextStim: text = '1.55分'
+18.6191 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+18.6193 	DATA 	Keypress: space
+18.7686 	DATA 	Keypress: return
+18.7711 	EXP 	New trial (rep=0, index=42): {'Condition': 'orange', 'Max': 16}
+18.7846 	EXP 	unnamed TextStim: text = '0.00分'
+18.7846 	EXP 	unnamed TextStim: text = '1.55分'
+18.7846 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+18.8058 	DATA 	Keypress: space
+18.8178 	EXP 	unnamed TextStim: text = '1.55分'
+18.9636 	DATA 	Keypress: return
+18.9717 	EXP 	New trial (rep=0, index=43): {'Condition': 'green', 'Max': 32}
+18.9853 	EXP 	unnamed TextStim: height = 20.0
+18.9853 	EXP 	unnamed TextStim: height = 20.0
+18.9853 	EXP 	unnamed TextStim: height = 20.0
+18.9853 	EXP 	unnamed TextStim: text = '0.05分'
+18.9853 	EXP 	unnamed TextStim: height = 20.0
+18.9853 	EXP 	unnamed TextStim: height = 20.0
+18.9853 	EXP 	unnamed TextStim: height = 20.0
+18.9853 	EXP 	unnamed TextStim: text = '1.60分'
+18.9853 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+19.0310 	DATA 	Keypress: space
+19.0510 	EXP 	unnamed TextStim: text = '1.60分'
+19.1434 	DATA 	Keypress: return
+19.1493 	EXP 	New trial (rep=0, index=44): {'Condition': 'blue', 'Max': 128}
+19.1693 	EXP 	unnamed TextStim: text = '0.05分'
+19.1693 	EXP 	unnamed TextStim: height = 20.0
+19.1693 	EXP 	unnamed TextStim: height = 20.0
+19.1693 	EXP 	unnamed TextStim: height = 20.0
+19.1693 	EXP 	unnamed TextStim: text = '1.65分'
+19.1693 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+19.2411 	DATA 	Keypress: space
+19.2510 	EXP 	unnamed TextStim: text = '1.65分'
+19.3383 	DATA 	Keypress: return
+19.3441 	EXP 	New trial (rep=0, index=45): {'Condition': 'blue', 'Max': 128}
+19.3683 	EXP 	unnamed TextStim: text = '0.05分'
+19.3683 	EXP 	unnamed TextStim: height = 20.0
+19.3683 	EXP 	unnamed TextStim: height = 20.0
+19.3683 	EXP 	unnamed TextStim: height = 20.0
+19.3683 	EXP 	unnamed TextStim: text = '1.70分'
+19.3683 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+19.4587 	DATA 	Keypress: space
+19.4683 	EXP 	unnamed TextStim: text = '1.70分'
+19.5188 	DATA 	Keypress: return
+19.5226 	EXP 	New trial (rep=0, index=46): {'Condition': 'green', 'Max': 32}
+19.5343 	EXP 	unnamed TextStim: text = '0.05分'
+19.5343 	EXP 	unnamed TextStim: height = 20.0
+19.5343 	EXP 	unnamed TextStim: height = 20.0
+19.5343 	EXP 	unnamed TextStim: height = 20.0
+19.5343 	EXP 	unnamed TextStim: text = '1.75分'
+19.5343 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+19.6762 	DATA 	Keypress: space
+19.7011 	EXP 	unnamed TextStim: text = '1.75分'
+19.7055 	DATA 	Keypress: return
+19.7103 	EXP 	New trial (rep=0, index=47): {'Condition': 'orange', 'Max': 16}
+19.7350 	EXP 	unnamed TextStim: text = '0.05分'
+19.7350 	EXP 	unnamed TextStim: height = 20.0
+19.7350 	EXP 	unnamed TextStim: height = 20.0
+19.7350 	EXP 	unnamed TextStim: height = 20.0
+19.7350 	EXP 	unnamed TextStim: text = '1.80分'
+19.7350 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+19.8709 	DATA 	Keypress: return
+19.8761 	EXP 	New trial (rep=0, index=48): {'Condition': 'orange', 'Max': 16}
+19.9032 	EXP 	unnamed TextStim: height = 20.0
+19.9032 	EXP 	unnamed TextStim: height = 20.0
+19.9032 	EXP 	unnamed TextStim: height = 20.0
+19.9032 	EXP 	unnamed TextStim: text = '0.00分'
+19.9032 	EXP 	unnamed TextStim: text = '1.80分'
+19.9032 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+19.9043 	DATA 	Keypress: space
+19.9191 	EXP 	unnamed TextStim: text = '1.80分'
+20.0735 	DATA 	Keypress: return
+20.0810 	EXP 	New trial (rep=0, index=49): {'Condition': 'green', 'Max': 32}
+20.1034 	EXP 	unnamed TextStim: height = 20.0
+20.1034 	EXP 	unnamed TextStim: height = 20.0
+20.1034 	EXP 	unnamed TextStim: height = 20.0
+20.1034 	EXP 	unnamed TextStim: text = '0.05分'
+20.1034 	EXP 	unnamed TextStim: height = 20.0
+20.1034 	EXP 	unnamed TextStim: height = 20.0
+20.1034 	EXP 	unnamed TextStim: height = 20.0
+20.1034 	EXP 	unnamed TextStim: text = '1.85分'
+20.1034 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+20.1260 	DATA 	Keypress: space
+20.1509 	EXP 	unnamed TextStim: text = '1.85分'
+20.2762 	DATA 	Keypress: return
+20.2830 	EXP 	New trial (rep=0, index=50): {'Condition': 'blue', 'Max': 128}
+20.3009 	EXP 	unnamed TextStim: text = '0.05分'
+20.3009 	EXP 	unnamed TextStim: height = 20.0
+20.3009 	EXP 	unnamed TextStim: height = 20.0
+20.3009 	EXP 	unnamed TextStim: height = 20.0
+20.3009 	EXP 	unnamed TextStim: text = '1.90分'
+20.3009 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+20.3362 	DATA 	Keypress: space
+20.3506 	EXP 	unnamed TextStim: text = '1.90分'
+20.4710 	DATA 	Keypress: return
+20.4767 	EXP 	New trial (rep=0, index=51): {'Condition': 'blue', 'Max': 128}
+20.5036 	EXP 	unnamed TextStim: text = '0.05分'
+20.5036 	EXP 	unnamed TextStim: height = 20.0
+20.5036 	EXP 	unnamed TextStim: height = 20.0
+20.5036 	EXP 	unnamed TextStim: height = 20.0
+20.5036 	EXP 	unnamed TextStim: text = '1.95分'
+20.5036 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+20.5607 	DATA 	Keypress: space
+20.5672 	EXP 	unnamed TextStim: text = '1.95分'
+20.6586 	DATA 	Keypress: return
+20.6645 	EXP 	New trial (rep=0, index=52): {'Condition': 'green', 'Max': 32}
+20.6851 	EXP 	unnamed TextStim: text = '0.05分'
+20.6851 	EXP 	unnamed TextStim: height = 20.0
+20.6851 	EXP 	unnamed TextStim: height = 20.0
+20.6851 	EXP 	unnamed TextStim: height = 20.0
+20.6851 	EXP 	unnamed TextStim: text = '2.00分'
+20.6851 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+20.7861 	DATA 	Keypress: space
+20.8006 	EXP 	unnamed TextStim: text = '2.00分'
+20.8385 	DATA 	Keypress: return
+20.8424 	EXP 	New trial (rep=0, index=53): {'Condition': 'orange', 'Max': 16}
+20.8690 	EXP 	unnamed TextStim: text = '0.05分'
+20.8690 	EXP 	unnamed TextStim: height = 20.0
+20.8690 	EXP 	unnamed TextStim: height = 20.0
+20.8690 	EXP 	unnamed TextStim: height = 20.0
+20.8690 	EXP 	unnamed TextStim: text = '2.05分'
+20.8690 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+21.0034 	DATA 	Keypress: space
+21.0180 	EXP 	unnamed TextStim: text = '2.05分'
+21.0255 	DATA 	Keypress: return
+21.0306 	EXP 	New trial (rep=0, index=54): {'Condition': 'orange', 'Max': 16}
+21.0507 	EXP 	unnamed TextStim: text = '0.05分'
+21.0507 	EXP 	unnamed TextStim: height = 20.0
+21.0507 	EXP 	unnamed TextStim: height = 20.0
+21.0507 	EXP 	unnamed TextStim: height = 20.0
+21.0507 	EXP 	unnamed TextStim: text = '2.10分'
+21.0507 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+21.2211 	DATA 	Keypress: space
+21.2338 	EXP 	unnamed TextStim: text = '2.10分'
+21.2350 	DATA 	Keypress: return
+21.2399 	EXP 	New trial (rep=0, index=55): {'Condition': 'green', 'Max': 32}
+21.2532 	EXP 	unnamed TextStim: text = '0.05分'
+21.2532 	EXP 	unnamed TextStim: height = 20.0
+21.2532 	EXP 	unnamed TextStim: height = 20.0
+21.2532 	EXP 	unnamed TextStim: height = 20.0
+21.2532 	EXP 	unnamed TextStim: text = '2.15分'
+21.2532 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+21.3937 	DATA 	Keypress: return
+21.3999 	EXP 	New trial (rep=0, index=56): {'Condition': 'blue', 'Max': 128}
+21.4184 	EXP 	unnamed TextStim: height = 20.0
+21.4184 	EXP 	unnamed TextStim: height = 20.0
+21.4184 	EXP 	unnamed TextStim: height = 20.0
+21.4184 	EXP 	unnamed TextStim: text = '0.00分'
+21.4184 	EXP 	unnamed TextStim: text = '2.15分'
+21.4184 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+21.4460 	DATA 	Keypress: space
+21.4674 	EXP 	unnamed TextStim: text = '2.15分'
+21.5735 	DATA 	Keypress: return
+21.5813 	EXP 	New trial (rep=0, index=57): {'Condition': 'blue', 'Max': 128}
+21.6016 	EXP 	unnamed TextStim: height = 20.0
+21.6016 	EXP 	unnamed TextStim: height = 20.0
+21.6016 	EXP 	unnamed TextStim: height = 20.0
+21.6016 	EXP 	unnamed TextStim: text = '0.05分'
+21.6016 	EXP 	unnamed TextStim: height = 20.0
+21.6016 	EXP 	unnamed TextStim: height = 20.0
+21.6016 	EXP 	unnamed TextStim: height = 20.0
+21.6016 	EXP 	unnamed TextStim: text = '2.20分'
+21.6016 	EXP 	unnamed ImageStim: image = './material/BART/blue.png'
+21.6636 	DATA 	Keypress: space
+21.6837 	EXP 	unnamed TextStim: text = '2.20分'
+21.7687 	DATA 	Keypress: return
+21.7743 	EXP 	New trial (rep=0, index=58): {'Condition': 'green', 'Max': 32}
+21.8005 	EXP 	unnamed TextStim: text = '0.05分'
+21.8005 	EXP 	unnamed TextStim: height = 20.0
+21.8005 	EXP 	unnamed TextStim: height = 20.0
+21.8005 	EXP 	unnamed TextStim: height = 20.0
+21.8005 	EXP 	unnamed TextStim: text = '2.25分'
+21.8005 	EXP 	unnamed ImageStim: image = './material/BART/green.png'
+21.8962 	DATA 	Keypress: space
+21.9174 	EXP 	unnamed TextStim: text = '2.25分'
+21.9339 	DATA 	Keypress: return
+21.9384 	EXP 	New trial (rep=0, index=59): {'Condition': 'orange', 'Max': 16}
+21.9515 	EXP 	unnamed TextStim: text = '0.05分'
+21.9515 	EXP 	unnamed TextStim: height = 20.0
+21.9515 	EXP 	unnamed TextStim: height = 20.0
+21.9515 	EXP 	unnamed TextStim: height = 20.0
+21.9515 	EXP 	unnamed TextStim: text = '2.30分'
+21.9515 	EXP 	unnamed ImageStim: image = './material/BART/orange.png'
+22.0988 	DATA 	Keypress: return
+22.1589 	EXP 	window1: mouseVisible = True
+22.1810 	INFO 	saved data to ./result/zhang_19810101_2_202412171655/zhang_19810101_2_202412171655_BART.psydat
+22.1867 	INFO 	saved data to './result/zhang_19810101_2_202412171655/zhang_19810101_2_202412171655_BART.csv'

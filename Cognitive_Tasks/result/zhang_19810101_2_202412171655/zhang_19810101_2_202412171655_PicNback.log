@@ -1,0 +1,403 @@
+3.7088 	INFO 	start
+3.7094 	WARNING 	Monitor specification not found. Creating a temporary one...
+4.5809 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001B6E780CD10>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001B6E780CCD0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001B6E775E1D0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001B6E79A9F10>, multiSample=False, name='window1', numSamples=2, pos=(128, 72), screen=0, size=array([1280,  720]), stencilBits=0, stereo=False, units='pix', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.5811 	EXP 	window1: mouseVisible = True
+4.5811 	EXP 	window1: backgroundImage = None
+4.5812 	EXP 	window1: backgroundFit = 'cover'
+4.6491 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=40.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='pix', win=Window(...), wrapWidth=500)
+4.6793 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/PicNback/11.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([400., 400.]), texRes=128, units='pix', win=Window(...))
+4.7089 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/PicNback/12.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([400., 400.]), texRes=128, units='pix', win=Window(...))
+4.7353 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/PicNback/13.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([400., 400.]), texRes=128, units='pix', win=Window(...))
+4.7628 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/PicNback/21.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([400., 400.]), texRes=128, units='pix', win=Window(...))
+4.7907 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/PicNback/22.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([400., 400.]), texRes=128, units='pix', win=Window(...))
+4.8194 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/PicNback/23.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([400., 400.]), texRes=128, units='pix', win=Window(...))
+4.8474 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/PicNback/31.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([400., 400.]), texRes=128, units='pix', win=Window(...))
+4.8741 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/PicNback/32.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([400., 400.]), texRes=128, units='pix', win=Window(...))
+4.9041 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='./material/PicNback/33.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([400., 400.]), texRes=128, units='pix', win=Window(...))
+4.9059 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image=None, interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1280.,  720.]), texRes=128, units='pix', win=Window(...))
+4.9197 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='SimSun', fontFiles=[], height=45.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Hello World', units='pix', win=Window(...), wrapWidth=500)
+4.9197 	INFO 	Start OneBack
+4.9954 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+5.0791 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+8.7645 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+8.8442 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+8.9279 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.0103 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.0938 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.1775 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.2608 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.3443 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.4269 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.4952 	DATA 	Mouse: Left button down, pos=(696,427)
+9.5110 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.5722 	DATA 	Mouse:  Left button up, pos=(696,427)
+9.5770 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.6600 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.7435 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.8130 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.8935 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.9550 	DATA 	Keypress: space
+9.9609 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBackPrac.png'
+9.9619 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+14.7249 	EXP 	New trial (rep=0, index=0): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8EC6590>, 'Resp': 'right'}
+16.4769 	DATA 	Keypress: right
+16.7903 	EXP 	unnamed TextStim: height = 45.0
+16.7903 	EXP 	unnamed TextStim: height = 45.0
+16.7903 	EXP 	unnamed TextStim: height = 45.0
+16.7903 	EXP 	unnamed TextStim: text = '回答正确'
+17.7907 	EXP 	New trial (rep=0, index=1): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8E18350>, 'Resp': 'right'}
+19.0994 	DATA 	Keypress: left
+19.8383 	EXP 	unnamed TextStim: height = 45.0
+19.8383 	EXP 	unnamed TextStim: height = 45.0
+19.8383 	EXP 	unnamed TextStim: height = 45.0
+19.8383 	EXP 	unnamed TextStim: text = '回答错误'
+20.8390 	EXP 	New trial (rep=0, index=2): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8E18350>, 'Resp': 'left'}
+22.5780 	DATA 	Keypress: left
+22.8876 	EXP 	unnamed TextStim: height = 45.0
+22.8876 	EXP 	unnamed TextStim: height = 45.0
+22.8876 	EXP 	unnamed TextStim: height = 45.0
+22.8876 	EXP 	unnamed TextStim: text = '回答正确'
+23.8883 	EXP 	New trial (rep=0, index=3): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8ED6450>, 'Resp': 'right'}
+25.4076 	DATA 	Keypress: right
+25.9368 	EXP 	unnamed TextStim: text = '回答正确'
+26.9374 	EXP 	New trial (rep=0, index=4): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8ED6450>, 'Resp': 'left'}
+28.6445 	DATA 	Keypress: left
+28.9857 	EXP 	unnamed TextStim: text = '回答正确'
+30.0531 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.1374 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.2197 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.3038 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.3865 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.4529 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.5202 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.6027 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.6695 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.7368 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.8030 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.8694 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+30.9367 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.0028 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.0859 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.1526 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.2193 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.2859 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.3696 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.4359 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.5025 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.5691 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.6531 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.7361 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.8024 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.8697 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+31.9357 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.0024 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.0699 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.1523 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.2196 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.3023 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.3689 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.4362 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.5188 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.5862 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.6521 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.7187 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.8034 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.8854 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+32.9688 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.0530 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.1357 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.2186 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.2853 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.3687 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.4358 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.5184 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.5858 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.6696 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.7526 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.8350 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.9019 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+33.9856 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.0516 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.1358 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.2015 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.2683 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.3348 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.4021 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.4847 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.5688 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.6513 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.7357 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.8187 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.9013 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+34.9679 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.0353 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.1180 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.1847 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.2511 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.3185 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.3843 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.4510 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.5184 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.5843 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.6511 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.7183 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.7844 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.8510 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+35.9355 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+36.0175 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+36.0850 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+36.1680 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+36.2516 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+36.3341 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucOneBack.png'
+36.3344 	DATA 	Keypress: space
+36.3490 	EXP 	Imported ./material/PicNback/Nback.xlsx as conditions, 24 conditions, 6 params
+36.3498 	EXP 	Created sequence: sequential, trialTypes=24, nReps=1, seed=None
+39.7630 	DATA 	Keypress: left
+40.4159 	EXP 	New trial (rep=0, index=0): {'ImageOneBack': 'Image21', 'RespOneBack': 'right', 'ImageTwoBack': 'Image12', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image21', 'RespThreeBack': 'right'}
+42.7508 	DATA 	Keypress: right
+42.7519 	EXP 	New trial (rep=0, index=1): {'ImageOneBack': 'Image21', 'RespOneBack': 'left', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image22', 'RespThreeBack': 'left'}
+44.2191 	DATA 	Keypress: left
+44.2202 	EXP 	New trial (rep=0, index=2): {'ImageOneBack': 'Image12', 'RespOneBack': 'right', 'ImageTwoBack': 'Image33', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'right'}
+45.8013 	DATA 	Keypress: right
+45.8024 	EXP 	New trial (rep=0, index=3): {'ImageOneBack': 'Image31', 'RespOneBack': 'right', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image21', 'RespThreeBack': 'left'}
+47.2339 	DATA 	Keypress: right
+47.2344 	EXP 	New trial (rep=0, index=4): {'ImageOneBack': 'Image31', 'RespOneBack': 'left', 'ImageTwoBack': 'Image33', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image13', 'RespThreeBack': 'right'}
+48.7492 	DATA 	Keypress: left
+48.7498 	EXP 	New trial (rep=0, index=5): {'ImageOneBack': 'Image13', 'RespOneBack': 'right', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'left'}
+50.6691 	DATA 	Keypress: right
+50.6699 	EXP 	New trial (rep=0, index=6): {'ImageOneBack': 'Image12', 'RespOneBack': 'right', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image31', 'RespThreeBack': 'right'}
+52.2593 	DATA 	Keypress: right
+52.2601 	EXP 	New trial (rep=0, index=7): {'ImageOneBack': 'Image12', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image32', 'RespThreeBack': 'right'}
+53.7291 	DATA 	Keypress: left
+53.7297 	EXP 	New trial (rep=0, index=8): {'ImageOneBack': 'Image32', 'RespOneBack': 'right', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'left'}
+55.1614 	DATA 	Keypress: right
+55.1624 	EXP 	New trial (rep=0, index=9): {'ImageOneBack': 'Image32', 'RespOneBack': 'left', 'ImageTwoBack': 'Image11', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image31', 'RespThreeBack': 'left'}
+56.6015 	DATA 	Keypress: left
+56.6024 	EXP 	New trial (rep=0, index=10): {'ImageOneBack': 'Image31', 'RespOneBack': 'right', 'ImageTwoBack': 'Image12', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image33', 'RespThreeBack': 'right'}
+58.1394 	DATA 	Keypress: right
+58.1402 	EXP 	New trial (rep=0, index=11): {'ImageOneBack': 'Image31', 'RespOneBack': 'left', 'ImageTwoBack': 'Image11', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'left'}
+59.7364 	DATA 	Keypress: left
+59.7370 	EXP 	New trial (rep=0, index=12): {'ImageOneBack': 'Image11', 'RespOneBack': 'right', 'ImageTwoBack': 'Image23', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'right'}
+61.2814 	DATA 	Keypress: right
+61.2819 	EXP 	New trial (rep=0, index=13): {'ImageOneBack': 'Image23', 'RespOneBack': 'right', 'ImageTwoBack': 'Image11', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image33', 'RespThreeBack': 'left'}
+62.9839 	DATA 	Keypress: right
+62.9849 	EXP 	New trial (rep=0, index=14): {'ImageOneBack': 'Image23', 'RespOneBack': 'left', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image21', 'RespThreeBack': 'right'}
+64.4542 	DATA 	Keypress: left
+64.4551 	EXP 	New trial (rep=0, index=15): {'ImageOneBack': 'Image23', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'left'}
+65.9840 	DATA 	Keypress: left
+65.9846 	EXP 	New trial (rep=0, index=16): {'ImageOneBack': 'Image32', 'RespOneBack': 'right', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image31', 'RespThreeBack': 'right'}
+67.4988 	DATA 	Keypress: right
+67.4994 	EXP 	New trial (rep=0, index=17): {'ImageOneBack': 'Image32', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image22', 'RespThreeBack': 'right'}
+68.9539 	DATA 	Keypress: left
+68.9547 	EXP 	New trial (rep=0, index=18): {'ImageOneBack': 'Image22', 'RespOneBack': 'right', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'left'}
+70.4694 	DATA 	Keypress: right
+70.4702 	EXP 	New trial (rep=0, index=19): {'ImageOneBack': 'Image22', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image11', 'RespThreeBack': 'right'}
+71.8791 	DATA 	Keypress: right
+71.8801 	EXP 	New trial (rep=0, index=20): {'ImageOneBack': 'Image13', 'RespOneBack': 'right', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image22', 'RespThreeBack': 'left'}
+73.3788 	DATA 	Keypress: right
+73.3793 	EXP 	New trial (rep=0, index=21): {'ImageOneBack': 'Image13', 'RespOneBack': 'left', 'ImageTwoBack': 'Image12', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'left'}
+74.9314 	DATA 	Keypress: left
+74.9320 	EXP 	New trial (rep=0, index=22): {'ImageOneBack': 'Image13', 'RespOneBack': 'left', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image13', 'RespThreeBack': 'left'}
+76.3414 	DATA 	Keypress: left
+76.3423 	EXP 	New trial (rep=0, index=23): {'ImageOneBack': 'Image12', 'RespOneBack': 'right', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'right'}
+77.7284 	DATA 	Keypress: right
+77.8034 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+77.8697 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+77.9537 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.0195 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.0863 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.1703 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.2362 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.3029 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.3705 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.4529 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.5368 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.6197 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.7033 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.7698 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBackPrac.png'
+78.7701 	DATA 	Keypress: space
+78.7708 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+84.8674 	EXP 	New trial (rep=0, index=0): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8E18350>, 'Resp': 'left'}
+86.5275 	DATA 	Keypress: left
+86.9155 	EXP 	unnamed TextStim: text = '回答正确'
+87.9159 	EXP 	New trial (rep=0, index=1): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8E18510>, 'Resp': 'right'}
+89.4852 	DATA 	Keypress: right
+89.9637 	EXP 	unnamed TextStim: text = '回答正确'
+90.9645 	EXP 	New trial (rep=0, index=2): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8ED5310>, 'Resp': 'right'}
+92.5663 	DATA 	Keypress: right
+93.0135 	EXP 	unnamed TextStim: text = '回答正确'
+94.0141 	EXP 	New trial (rep=0, index=3): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8E18510>, 'Resp': 'left'}
+95.4825 	DATA 	Keypress: left
+96.0625 	EXP 	unnamed TextStim: text = '回答正确'
+97.0630 	EXP 	New trial (rep=0, index=4): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E74D1BD0>, 'Resp': 'right'}
+98.6028 	DATA 	Keypress: right
+99.1121 	EXP 	unnamed TextStim: text = '回答正确'
+100.1786 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.2461 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.3119 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.3792 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.4451 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.5118 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.5961 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.6618 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.7284 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.7957 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.8783 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+100.9615 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+101.0282 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+101.0920 	DATA 	Keypress: space
+101.1121 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucTwoBack.png'
+101.1236 	EXP 	Imported ./material/PicNback/Nback.xlsx as conditions, 24 conditions, 6 params
+101.1245 	EXP 	Created sequence: sequential, trialTypes=24, nReps=1, seed=None
+107.2262 	EXP 	New trial (rep=0, index=0): {'ImageOneBack': 'Image21', 'RespOneBack': 'right', 'ImageTwoBack': 'Image12', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image21', 'RespThreeBack': 'right'}
+108.8989 	DATA 	Keypress: left
+108.9002 	EXP 	New trial (rep=0, index=1): {'ImageOneBack': 'Image21', 'RespOneBack': 'left', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image22', 'RespThreeBack': 'left'}
+110.4137 	DATA 	Keypress: right
+110.4143 	EXP 	New trial (rep=0, index=2): {'ImageOneBack': 'Image12', 'RespOneBack': 'right', 'ImageTwoBack': 'Image33', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'right'}
+111.8762 	DATA 	Keypress: right
+111.8767 	EXP 	New trial (rep=0, index=3): {'ImageOneBack': 'Image31', 'RespOneBack': 'right', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image21', 'RespThreeBack': 'left'}
+113.3689 	DATA 	Keypress: right
+113.3699 	EXP 	New trial (rep=0, index=4): {'ImageOneBack': 'Image31', 'RespOneBack': 'left', 'ImageTwoBack': 'Image33', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image13', 'RespThreeBack': 'right'}
+114.8312 	DATA 	Keypress: left
+114.8321 	EXP 	New trial (rep=0, index=5): {'ImageOneBack': 'Image13', 'RespOneBack': 'right', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'left'}
+116.6010 	DATA 	Keypress: left
+116.6021 	EXP 	New trial (rep=0, index=6): {'ImageOneBack': 'Image12', 'RespOneBack': 'right', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image31', 'RespThreeBack': 'right'}
+118.0711 	DATA 	Keypress: right
+118.0719 	EXP 	New trial (rep=0, index=7): {'ImageOneBack': 'Image12', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image32', 'RespThreeBack': 'right'}
+119.5263 	DATA 	Keypress: left
+119.5272 	EXP 	New trial (rep=0, index=8): {'ImageOneBack': 'Image32', 'RespOneBack': 'right', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'left'}
+120.9662 	DATA 	Keypress: right
+120.9672 	EXP 	New trial (rep=0, index=9): {'ImageOneBack': 'Image32', 'RespOneBack': 'left', 'ImageTwoBack': 'Image11', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image31', 'RespThreeBack': 'left'}
+122.4662 	DATA 	Keypress: right
+122.4671 	EXP 	New trial (rep=0, index=10): {'ImageOneBack': 'Image31', 'RespOneBack': 'right', 'ImageTwoBack': 'Image12', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image33', 'RespThreeBack': 'right'}
+123.9886 	DATA 	Keypress: right
+123.9892 	EXP 	New trial (rep=0, index=11): {'ImageOneBack': 'Image31', 'RespOneBack': 'left', 'ImageTwoBack': 'Image11', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'left'}
+125.3686 	DATA 	Keypress: left
+125.3696 	EXP 	New trial (rep=0, index=12): {'ImageOneBack': 'Image11', 'RespOneBack': 'right', 'ImageTwoBack': 'Image23', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'right'}
+126.8989 	DATA 	Keypress: right
+126.8998 	EXP 	New trial (rep=0, index=13): {'ImageOneBack': 'Image23', 'RespOneBack': 'right', 'ImageTwoBack': 'Image11', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image33', 'RespThreeBack': 'left'}
+128.6533 	DATA 	Keypress: left
+128.6540 	EXP 	New trial (rep=0, index=14): {'ImageOneBack': 'Image23', 'RespOneBack': 'left', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image21', 'RespThreeBack': 'right'}
+130.2963 	DATA 	Keypress: right
+130.2971 	EXP 	New trial (rep=0, index=15): {'ImageOneBack': 'Image23', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'left'}
+131.7816 	DATA 	Keypress: right
+131.7825 	EXP 	New trial (rep=0, index=16): {'ImageOneBack': 'Image32', 'RespOneBack': 'right', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image31', 'RespThreeBack': 'right'}
+133.1236 	DATA 	Keypress: left
+133.1246 	EXP 	New trial (rep=0, index=17): {'ImageOneBack': 'Image32', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image22', 'RespThreeBack': 'right'}
+134.9082 	DATA 	Keypress: left
+134.9091 	EXP 	New trial (rep=0, index=18): {'ImageOneBack': 'Image22', 'RespOneBack': 'right', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'left'}
+136.4161 	DATA 	Keypress: right
+136.4171 	EXP 	New trial (rep=0, index=19): {'ImageOneBack': 'Image22', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image11', 'RespThreeBack': 'right'}
+138.1184 	DATA 	Keypress: left
+138.1192 	EXP 	New trial (rep=0, index=20): {'ImageOneBack': 'Image13', 'RespOneBack': 'right', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image22', 'RespThreeBack': 'left'}
+139.9641 	DATA 	Keypress: right
+139.9650 	EXP 	New trial (rep=0, index=21): {'ImageOneBack': 'Image13', 'RespOneBack': 'left', 'ImageTwoBack': 'Image12', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'left'}
+141.5238 	DATA 	Keypress: right
+141.5247 	EXP 	New trial (rep=0, index=22): {'ImageOneBack': 'Image13', 'RespOneBack': 'left', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image13', 'RespThreeBack': 'left'}
+143.0536 	DATA 	Keypress: left
+143.0545 	EXP 	New trial (rep=0, index=23): {'ImageOneBack': 'Image12', 'RespOneBack': 'right', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'right'}
+144.7790 	DATA 	Keypress: right
+144.8479 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+144.9301 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+144.9969 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.0625 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.1295 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.1973 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.2634 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.3296 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.3961 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.4634 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.5293 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.5961 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.6793 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBackPrac.png'
+145.6797 	DATA 	Keypress: space
+145.6803 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+153.8091 	EXP 	New trial (rep=0, index=0): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8ED71D0>, 'Resp': 'right'}
+155.7087 	DATA 	Keypress: right
+155.8580 	EXP 	unnamed TextStim: text = '回答正确'
+156.8585 	EXP 	New trial (rep=0, index=1): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E6F78850>, 'Resp': 'left'}
+158.4612 	DATA 	Keypress: left
+158.9075 	EXP 	unnamed TextStim: text = '回答正确'
+159.9079 	EXP 	New trial (rep=0, index=2): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8ED6450>, 'Resp': 'left'}
+162.0136 	DATA 	Keypress: left
+162.0226 	EXP 	unnamed TextStim: text = '回答正确'
+163.0233 	EXP 	New trial (rep=0, index=3): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E8E18510>, 'Resp': 'right'}
+164.6488 	DATA 	Keypress: right
+165.0716 	EXP 	unnamed TextStim: text = '回答正确'
+166.0721 	EXP 	New trial (rep=0, index=4): {'Image': <psychopy.visual.image.ImageStim object at 0x000001B6E6F78850>, 'Resp': 'left'}
+167.8848 	DATA 	Keypress: right
+168.1206 	EXP 	unnamed TextStim: height = 45.0
+168.1206 	EXP 	unnamed TextStim: height = 45.0
+168.1206 	EXP 	unnamed TextStim: height = 45.0
+168.1206 	EXP 	unnamed TextStim: text = '回答错误'
+169.1886 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.2712 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.3376 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.4051 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.4709 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.5375 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.6048 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.6709 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.7375 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.8048 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.8707 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+169.9374 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+170.0040 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+170.0707 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+170.1377 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+170.2206 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+170.2897 	DATA 	Keypress: space
+170.3043 	EXP 	unnamed ImageStim: image = './material/PicNback/InstrucThreeBack.png'
+170.3170 	EXP 	Imported ./material/PicNback/Nback.xlsx as conditions, 24 conditions, 6 params
+170.3177 	EXP 	Created sequence: sequential, trialTypes=24, nReps=1, seed=None
+178.4345 	EXP 	New trial (rep=0, index=0): {'ImageOneBack': 'Image21', 'RespOneBack': 'right', 'ImageTwoBack': 'Image12', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image21', 'RespThreeBack': 'right'}
+180.0959 	DATA 	Keypress: right
+180.0966 	EXP 	New trial (rep=0, index=1): {'ImageOneBack': 'Image21', 'RespOneBack': 'left', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image22', 'RespThreeBack': 'left'}
+181.5214 	DATA 	Keypress: left
+181.5219 	EXP 	New trial (rep=0, index=2): {'ImageOneBack': 'Image12', 'RespOneBack': 'right', 'ImageTwoBack': 'Image33', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'right'}
+183.0962 	DATA 	Keypress: right
+183.0968 	EXP 	New trial (rep=0, index=3): {'ImageOneBack': 'Image31', 'RespOneBack': 'right', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image21', 'RespThreeBack': 'left'}
+184.7987 	DATA 	Keypress: left
+184.7993 	EXP 	New trial (rep=0, index=4): {'ImageOneBack': 'Image31', 'RespOneBack': 'left', 'ImageTwoBack': 'Image33', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image13', 'RespThreeBack': 'right'}
+186.0288 	DATA 	Keypress: right
+186.0294 	EXP 	New trial (rep=0, index=5): {'ImageOneBack': 'Image13', 'RespOneBack': 'right', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'left'}
+187.3560 	DATA 	Keypress: left
+187.3569 	EXP 	New trial (rep=0, index=6): {'ImageOneBack': 'Image12', 'RespOneBack': 'right', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image31', 'RespThreeBack': 'right'}
+188.9985 	DATA 	Keypress: right
+188.9994 	EXP 	New trial (rep=0, index=7): {'ImageOneBack': 'Image12', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image32', 'RespThreeBack': 'right'}
+190.6636 	DATA 	Keypress: right
+190.6642 	EXP 	New trial (rep=0, index=8): {'ImageOneBack': 'Image32', 'RespOneBack': 'right', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'left'}
+192.2008 	DATA 	Keypress: right
+192.2014 	EXP 	New trial (rep=0, index=9): {'ImageOneBack': 'Image32', 'RespOneBack': 'left', 'ImageTwoBack': 'Image11', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image31', 'RespThreeBack': 'left'}
+193.8134 	DATA 	Keypress: left
+193.8139 	EXP 	New trial (rep=0, index=10): {'ImageOneBack': 'Image31', 'RespOneBack': 'right', 'ImageTwoBack': 'Image12', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image33', 'RespThreeBack': 'right'}
+195.4334 	DATA 	Keypress: right
+195.4344 	EXP 	New trial (rep=0, index=11): {'ImageOneBack': 'Image31', 'RespOneBack': 'left', 'ImageTwoBack': 'Image11', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'left'}
+197.0310 	DATA 	Keypress: right
+197.0319 	EXP 	New trial (rep=0, index=12): {'ImageOneBack': 'Image11', 'RespOneBack': 'right', 'ImageTwoBack': 'Image23', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'right'}
+198.6589 	DATA 	Keypress: right
+198.6598 	EXP 	New trial (rep=0, index=13): {'ImageOneBack': 'Image23', 'RespOneBack': 'right', 'ImageTwoBack': 'Image11', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image33', 'RespThreeBack': 'left'}
+200.1057 	DATA 	Keypress: right
+200.1068 	EXP 	New trial (rep=0, index=14): {'ImageOneBack': 'Image23', 'RespOneBack': 'left', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image21', 'RespThreeBack': 'right'}
+201.5011 	DATA 	Keypress: left
+201.5019 	EXP 	New trial (rep=0, index=15): {'ImageOneBack': 'Image23', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'left'}
+202.8284 	DATA 	Keypress: right
+202.8289 	EXP 	New trial (rep=0, index=16): {'ImageOneBack': 'Image32', 'RespOneBack': 'right', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image31', 'RespThreeBack': 'right'}
+204.4783 	DATA 	Keypress: right
+204.4792 	EXP 	New trial (rep=0, index=17): {'ImageOneBack': 'Image32', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image22', 'RespThreeBack': 'right'}
+205.9860 	DATA 	Keypress: right
+205.9868 	EXP 	New trial (rep=0, index=18): {'ImageOneBack': 'Image22', 'RespOneBack': 'right', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'left'}
+207.4936 	DATA 	Keypress: left
+207.4941 	EXP 	New trial (rep=0, index=19): {'ImageOneBack': 'Image22', 'RespOneBack': 'left', 'ImageTwoBack': 'Image21', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image11', 'RespThreeBack': 'right'}
+208.9709 	DATA 	Keypress: right
+208.9715 	EXP 	New trial (rep=0, index=20): {'ImageOneBack': 'Image13', 'RespOneBack': 'right', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image22', 'RespThreeBack': 'left'}
+210.6958 	DATA 	Keypress: right
+210.6967 	EXP 	New trial (rep=0, index=21): {'ImageOneBack': 'Image13', 'RespOneBack': 'left', 'ImageTwoBack': 'Image12', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image23', 'RespThreeBack': 'left'}
+212.5188 	DATA 	Keypress: left
+212.5198 	EXP 	New trial (rep=0, index=22): {'ImageOneBack': 'Image13', 'RespOneBack': 'left', 'ImageTwoBack': 'Image31', 'RespTwoBack': 'left', 'ImageThreeBack': 'Image13', 'RespThreeBack': 'left'}
+213.7483 	DATA 	Keypress: right
+213.7491 	EXP 	New trial (rep=0, index=23): {'ImageOneBack': 'Image12', 'RespOneBack': 'right', 'ImageTwoBack': 'Image22', 'RespTwoBack': 'right', 'ImageThreeBack': 'Image12', 'RespThreeBack': 'right'}
+214.9631 	DATA 	Keypress: right
+215.0239 	EXP 	window1: mouseVisible = True
+215.0424 	INFO 	saved data to ./result/zhang_19810101_2_202412171655/zhang_19810101_2_202412171655_PicNback.psydat
+215.0473 	INFO 	saved data to './result/zhang_19810101_2_202412171655/zhang_19810101_2_202412171655_PicNback.csv'

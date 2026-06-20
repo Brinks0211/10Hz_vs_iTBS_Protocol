@@ -1,0 +1,5 @@
+2025-03-13 10:01:53 (26.27 seconds):  2025-03-13 10:01:27.018950 (0.00 secondes): start the application
+2025-03-13 10:01:53 (26.27 seconds): 0.00 secondsstart record video
+2025-03-13 10:02:11 (44.81 seconds): click the inform button
+2025-03-13 10:02:23 (56.55 seconds): show the Inform Consent
+2025-03-13 10:02:40 (73.63 seconds): Start PicNback
