@@ -2,11 +2,6 @@
 
 本仓库包含一项随机对照试验中使用的计算机化实验程序，该试验比较 10 Hz rTMS 与 iTBS 对青少年重性抑郁障碍的疗效。
 
-## 临床试验注册
-
-- 注册号：[待补充]
-- 伦理批准：山东省精神卫生中心伦理委员会 (KYSJWLL2025-1-019)
-
 ---
 
 ## 内容概览
@@ -85,18 +80,3 @@
 └── LICENSE
 ```
 
-## 运行环境
-
-- PsychoPy ≥ [版本号]
-- Python ≥ [版本号]
-
-## 引用
-
-如使用本仓库中的程序，请引用我们的研究方案论文：
-
-> Tian X, Sun H, Li X, et al. A randomized controlled trial protocol comparing 10 Hz rTMS and iTBS for adolescent depression: clinical efficacy, neurocognitive and neurobiological mechanisms. [待补充]
-
-## 联系方式
-
-- 通讯作者：[待补充]
-- 邮箱：[待补充]
