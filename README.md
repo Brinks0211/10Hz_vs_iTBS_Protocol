@@ -2,11 +2,6 @@
 
 This repository contains computerized experimental tasks used in a randomized controlled trial comparing 10 Hz rTMS and iTBS in adolescents with major depressive disorder.
 
-## Trial Registration
-
-- Registration No.: [to be added]
-- Ethics Approval: Ethics Committee of Shandong Mental Health Center (KYSJWLL2025-1-019)
-
 ---
 
 ## Overview
@@ -83,19 +78,3 @@ A reward-processing fMRI paradigm. Participants select one of two doors in each 
 ├── README_CN.md
 └── LICENSE
 ```
-
-## Requirements
-
-- PsychoPy ≥ [version]
-- Python ≥ [version]
-
-## Citation
-
-If you use these tasks, please cite our study protocol:
-
-> Tian X, Sun H, Li X, et al. A randomized controlled trial protocol comparing 10 Hz rTMS and iTBS for adolescent depression: clinical efficacy, neurocognitive and neurobiological mechanisms. [to be added]
-
-## Contact
-
-- Corresponding Author: [name to be added]
-- Email: [email to be added]
